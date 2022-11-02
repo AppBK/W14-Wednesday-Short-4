@@ -1,6 +1,10 @@
+import ContactUs from './ContactUs.js';
+
 function App() {
   return (
-    <h1>Hello from App</h1>
+    <>
+      <ContactUs />
+    </>
   );
 }
 
